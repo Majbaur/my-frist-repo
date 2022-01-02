@@ -5,11 +5,14 @@ h1{
     background-color: blue;
 }
 h2{
-    color: brown;
+    color: red;
 }
 h3{
     background-color: darkslategray;
 }
 h4{
     color: deeppink;
+}
+h5{
+    color: pink;
 }
